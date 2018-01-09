@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+    char c;
+    int LowercaseVowel,UppercaseVowel;
+ printf("\n enter the alphabet")
+ scanf("%c",&C)
+ lowercasevowel(c ='a'//c ='e'//c ='i'//c ='o'//c ='u') 
+ uppercasevowel(C ='A'//C='E'//C ='I'//C ='O'//C ='U')
+ if(uppercase//lowercase)
+ printf("%c it isvowel",c)
+ else
+ printf("%c it is consonent",c)
+ return 0;
+ }
